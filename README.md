@@ -18,4 +18,4 @@ You can find the pivot table [here](https://github.com/MehdiMahmoodi/Snakey-Diag
 
 You can find the python code related to this pivot table [here](https://github.com/MehdiMahmoodi/Snakey-Diagram/blob/master/Sankey_SharedKeys.ipynb)
 
-Also the other python codes for training purposes added [here](https://github.com/MehdiMahmoodi/Snakey-Diagram/blob/master/Sankey_SharedKeys.ipynb)
+Also the other python codes for training purposes added [here](https://github.com/MehdiMahmoodi/Snakey-Diagram/blob/master/My%20try.ipynb)
